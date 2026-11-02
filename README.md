@@ -505,3 +505,20 @@ GitHub: [Add your GitHub Profile URL](https://github.com/)
 **Domain:** Banking and Financial Risk Analytics
 
 **Type:** Machine Learning – Binary Classification
+## ?? Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](results/dashboard/dashboard_overview.png)
+
+### 2. Loan Risk Prediction
+![Loan Risk Prediction](results/dashboard/loan_prediction.png)
+
+### 3. Model Performance
+![Model Performance](results/dashboard/model_performance.png)
+
+### 4. Risk Explainability
+![Risk Explainability](results/dashboard/risk_explainability.png)
+
+### 5. What-If Loan Simulator
+![What-If Loan Simulator](results/dashboard/what_if_simulator.png)
+
