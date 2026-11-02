@@ -1,5 +1,17 @@
 # Credit Risk and Loan Default Prediction
 
+## 🚀 Live Demo
+
+Experience the deployed Credit Risk and Loan Default Prediction application:
+
+**[Open Live Application](https://credit-risk-and-loan-default-prediction-kceibex9lyw3xub8appari.streamlit.app/)**
+
+The interactive dashboard allows users to:
+- Predict loan default risk.
+- Explore model performance.
+- Understand predictions using SHAP explainability.
+- Simulate hypothetical loan scenarios.
+
 ## 1. Project Overview
 
 The **Credit Risk and Loan Default Prediction** project is a machine learning-based application designed to assess the likelihood of a loan applicant defaulting on a loan.
