@@ -1,0 +1,6 @@
+Scenario,Loan Amount,Interest Rate,Annual Income,Default Probability (%),Risk Level,Prediction
+Original Application,10000.0,11.5,60000.0,6.3,Low,No Default Risk
+Loan Amount Reduced by 20%,8000.0,11.5,60000.0,5.73,Low,No Default Risk
+Interest Rate Reduced by 2%,10000.0,9.5,60000.0,4.37,Low,No Default Risk
+Income Increased by 20%,10000.0,11.5,72000.0,4.84,Low,No Default Risk
+Loan Amount Reduced by 20% + Interest Rate Reduced by 2%,8000.0,9.5,60000.0,3.88,Low,No Default Risk
